@@ -4,7 +4,9 @@
 
 📌 Key Skills:
 🔹 Research & Data Analysis
+
 🔹 Document Management & Literature Review
+
 🔹 Medical Device & Molecular Biology Research
 
 📊 Interested in applying data analysis and statistical methods to extract insights from scientific research.
